@@ -10,12 +10,12 @@ Cuanto más lejos llegues, **más difícil será la travesía**… ¿podrás lle
 
 ## 👥 Equipo de desarrollo
 *(Rellena con vuestros nombres)*  
-- Nombre 1  
-- Nombre 2  
-- Nombre 3  
-- Nombre 4  
-- Nombre 5  
-- Nombre 6  
+- Eric Rodríguez  
+- Tania Arroyo  
+- Guillem Cadevall  
+- Arnau Alonso  
+- Adri¿?  
+- Marc 
 
 ---
 
